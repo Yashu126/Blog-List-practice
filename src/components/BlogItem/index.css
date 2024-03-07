@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+* {
+  font-family: Roboto;
+}
+
+.li {
+  list-style-type: none;
+  padding-left: 0px;
+  width: 100%;
+}
+
+.title-date-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  color: #12022f;
+  font-size: 30px;
+}
+
+.date {
+  color: #9aa5b1;
+  font-size: 22px;
+}

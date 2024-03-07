@@ -1,0 +1,17 @@
+* {
+  font-family: Roboto;
+}
+
+.profile-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.name {
+  color: #12022f;
+  font-size: 30px;
+}
+.role {
+  color: #616e7c;
+  font-size: 22px;
+}
